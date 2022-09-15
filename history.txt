@@ -1,7 +1,6 @@
-my name is phil, ich namem phil, meu nombre e phil, my nombre es Phil  
-
-
- 988  clear 
+my name is phil, ich namem phil, meu nombre e phil, my nombre es Phil.
+trying to solve a conflict file between two branches.  
+  988  clear 
   989  git branch
   990  git merge newBranch2
   991  git status
