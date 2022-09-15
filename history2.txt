@@ -1,0 +1,16 @@
+ 1010  ls
+ 1011  nano history.txt
+ 1012  git status
+ 1013  git checkout master
+ 1014  ls
+ 1015  nano history.txt
+ 1016  git stage *
+ 1017  git status
+ 1018  git commit -m "added lines in same location to history file"
+ 1019  git merge newBranch2
+ 1020  git merge master
+ 1021  ls
+ 1022  cat history
+ 1023  cat history.txt
+ 1024  git checkout newBranch2
+ 1025  ls
